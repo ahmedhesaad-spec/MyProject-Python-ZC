@@ -1,0 +1,17 @@
+CSAI 100|Introduction to Computational Sciences and AI|1|Sun|3:00-4:00|50
+CSAI 101|Fundamentals of Programming and Computer Science|2|Wed|12:00-2:00|50
+CSAI 101|Fundamentals of Programming and Computer Science Lab|0|Thu|08:00-10:00|50
+CSAI 102|Digital Logic and Computer Architecture|3|Tue|2:00-4:00|50
+CSAI 102|Digital Logic and Computer Architecture Lab|0|Mon|10:00-12:00|50
+CSAI 252|Introduction to Computer Networks|3|Wed|2:00-4:00|50
+CSAI 252|Introduction to Computer Networks Lab|0|Mon|12:00-2:00|50
+ENGL 002|Remedial English Sec1|0|Sun|1:00-3:00|50
+ENGL 002|Remedial English Sec2|0|Thu|10:00-12:00|50
+ENGL 003|Remedial English Sec1|0|Sun|1:00-3:00|50
+ENGL 003|Remedial English Sec2|0|Thu|10:00-12:00|50
+ENGL 004|Remedial English Sec1|0|Sun|1:00-3:00|50
+ENGL 004|Remedial English Sec2|0|Thu|10:00-12:00|50
+MATH 103|Calculus for Computational Sciences|3|Sun|08:00-10:00|50
+MATH 103|Calculus for Computational Sciences Tut1|0|Tue|12:00-2:00|50
+MATH 103|Calculus for Computational Sciences Tut2|0|Wed|10:00-12:00|50
+SCH 163|Sustainability Social and Ethical Issues in Computing|2|Tue|08:00-10:00|50
